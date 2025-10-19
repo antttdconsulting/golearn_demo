@@ -9,7 +9,7 @@ The camera practice feature allows users to practice sign language using their d
 ## Flow Architecture
 
 ### 1. Entry Point
-- **PracticeScreen** (`src/scrgggeens/PracticeScreen/PracticeScreen.tsx`)
+- **PracticeScreen** (`src/screens/PracticeScreen/PracticeScreen.tsx`)
   - Shows "Camera Practice" button when conditions are met:
     - Feature flag `FF_CAMERA_PRACTICE` is enabled
     - Camera practice is unlocked
